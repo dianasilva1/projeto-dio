@@ -1,0 +1,21 @@
+body {
+    font-family: "Verdana", sans-serif;
+  }
+  .nav-link:hover {
+    background-color: 			#87CEEB !important
+  }
+  
+  .nav-link .fa {
+    transition: all 1s
+  }
+  
+  .nav-link:hover .fa {
+    transform: rotate(360deg)
+  }
+  .logo{
+    max-width: 400px;
+    margin: 17px 30px;
+  }
+  .classe{
+    margin-top: 100px;
+  }
